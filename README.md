@@ -1,1 +1,1 @@
-# Orthopedic-Prediction-Using-ML
+# Orthopedic-Prediction-using-ML
